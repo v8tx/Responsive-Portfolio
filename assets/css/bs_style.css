@@ -1,0 +1,18 @@
+
+header {
+	background: #ebebeb;
+	width: 100%;	
+	margin: 0;
+	padding: 0;
+	min-height: auto;
+	display: inline-block;
+	background: url("../images/footer_lodyas.png") 0 0 repeat #777;
+}
+.logo {
+	font-family: 'Bungee Inline', cursive;
+	font-size: 2em;
+	color: #fff;
+	width: 300px;
+	background: #FF3B71;
+	padding: 20px;
+}
